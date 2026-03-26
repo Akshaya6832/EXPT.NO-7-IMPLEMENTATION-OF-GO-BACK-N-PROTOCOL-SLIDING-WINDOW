@@ -62,7 +62,9 @@ void main() {
 }
 ```
 # OUTPUT
-<img width="652" height="549" alt="image" src="https://github.com/user-attachments/assets/0e0cd600-a63f-45df-9840-61a6c1edcbdb" />
+
+<img width="414" height="447" alt="image" src="https://github.com/user-attachments/assets/07142b07-60a8-4c22-b642-35c47774aee2" />
+
 
 # RESULT:
 Thus the Go-Back-N protocol-Sliding Window was implemented and the output is verified successfully.
